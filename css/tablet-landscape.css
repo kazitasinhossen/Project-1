@@ -1,0 +1,79 @@
+/*------------------------
+ Main Section Starts Here
+-------------------------*/
+
+/* Section-2 Starts Here */
+
+.navber {
+  display: flex;
+}
+
+.navber-menu {
+  display: flex;
+}
+
+.navbar-menu__link {
+  color: white;
+  display: flex;
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.navbar-menu__link:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.item-info__description {
+  margin: 3rem 0 5rem 0;
+}
+
+.section-1-card{
+  flex-wrap: nowrap;
+}
+
+.section-1-card__img{
+    width: 60%;
+}
+
+
+.section-1-card__title {
+  font-size: 4rem;
+  margin: 1rem 0 0rem 0;
+}
+
+.section-1-card__description {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+
+/* Section-2 End Here */
+
+
+
+
+.footer-main{
+  font-size: 3rem;
+}
+
+.footer-main__para{
+  font-size: 2rem;
+}
+
+.contact-logo-list__list--link{
+  padding: 10%;
+  font-size: 3rem;
+}
+
+
+.footer-list__link{
+  font-size: 2rem;
+}
+
+.footer-list:last-child{
+  margin-top: 10%;
+}
+
+/*---------------------
+ Main Section End Here 
+----------------------*/

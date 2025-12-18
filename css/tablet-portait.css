@@ -1,0 +1,154 @@
+/* Default Codes Starts Here  */
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+}
+/* Default Codes End Here  */
+
+/*------------------
+ Header Starts Here 
+-------------------*/
+
+/* Navbar Starts here */
+
+.logo {
+  padding: 2.5rem 0 2rem 4rem;
+}
+
+.logo__image {
+  width: 15rem;
+  height: 3rem;
+}
+
+/* Navbar End here */
+
+/* Hero Section Starts Here */
+
+.hero-section {
+  min-height: 50vh;
+}
+
+.hero-section-content {
+  padding: 5rem 0 0 5rem;
+}
+
+/* Hero Section End Here */
+
+/*---------------
+ Header End Here 
+ ---------------*/
+
+/*------------------------
+ Main Section Starts Here
+-------------------------*/
+
+/* Section-1 Starts Here */
+
+.section-1-title-box {
+  padding: 2rem 0 0 0rem;
+  color: white;
+}
+
+.section-1-title-box__title {
+  text-align: center;
+  font-size: 3rem;
+  box-sizing: border-box;
+  margin: 2rem 0 3rem 0;
+}
+
+.section-1-title-box__description {
+  text-align: center;
+  font-size: 2rem;
+}
+/* Section-1 Cards Starts Here */
+
+.section-1-containeer {
+  background: url(../images/box-1-design.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+.section-1-card__img {
+  width: 40%;
+  margin-top: 2rem;
+}
+
+.section-1-card__title {
+  font-size: 5rem;
+  margin: 2rem 0 1rem 0;
+}
+
+.section-1-card__description {
+  font-size: 2.5rem;
+}
+
+/* Section-1 Cards End Here */
+
+/* Section-1 End Here */
+
+/* Section-2 Starts Here */
+
+.section-2-containeer {
+  padding: 10rem 0 5rem 2rem;
+  background: url(../images/box-2-design.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+.section-4-containeer {
+  background: url(../images/box-4-design.png) no-repeat;
+  background-size: 100% 100%;
+}
+
+.item__image {
+  height: 90%;
+}
+
+.item-info {
+  padding: 1rem 0 0 4.5rem;
+}
+
+.item-info__title {
+  font-size: 5rem;
+}
+
+.item-info__description {
+  font-size: 1.8rem;
+}
+
+.item-info__button {
+  height: 5rem;
+  font-size: 2rem;
+}
+
+/* Section-2 End Here */
+
+.section-3-card {
+  column-gap: 9rem;
+  flex-wrap: nowrap;
+}
+
+.section-3-cards {
+  width: 100%;
+}
+
+.section-6-button__input {
+  padding: 0 1rem;
+  height: 4rem;
+  padding: 0 5.5rem 0 2rem;
+  font-size: 1.7rem;
+}
+
+.section-6-button__button {
+  margin-left: -5%;
+  height: 4rem;
+}
+
+.contact-logo-list {
+  column-gap: 10%;
+}
+
+.footer-list:last-child {
+  margin-top: 0%;
+}

@@ -1,0 +1,134 @@
+/*------------------
+ Header Starts Here 
+-------------------*/
+
+.navbar-menu__link {
+  margin-left: 7rem;
+}
+
+/* Hero Section Starts Here */
+
+.hero-section {
+  min-height: 4vh;
+}
+
+.hero-section-content {
+  padding: 17.1rem 0 0 8rem;
+}
+
+.hero-section-content__title {
+  font-size: 12.4rem;
+}
+
+.hero-section-content__description {
+  font-size: 3rem;
+  width: 61.5rem;
+  margin: 8rem 0 5rem 0;
+}
+
+.hero-section-contect__button {
+  width: 32.5rem;
+  height: 6rem;
+  border-radius: 3rem;
+  margin-bottom: 17rem;
+}
+
+/* Hero Section End Here */
+
+/*---------------
+ Header End Here 
+ ---------------*/
+
+/*------------------------
+ Main Section Starts Here
+-------------------------*/
+
+/* Section-1 Starts Here */
+
+.section-1-title-box__title {
+  font-size: 5rem;
+}
+
+.section-1-title-box__description {
+  font-size: 2rem;
+}
+
+/* Section-1 Cards Starts Here */
+
+.section-1-card__img {
+  height: 25rem;
+  width: 25rem;
+  margin-top: 2rem;
+}
+
+.section-1-card__title {
+  font-size: 4rem;
+}
+
+.section-1-card__description {
+  font-size: 2rem;
+}
+
+/* Section-1 Cards End Here */
+
+/* Section-1 End Here */
+
+
+/* Section-2 Starts Here */
+
+
+.section-2-containeer {
+  padding: 13rem 0 5rem 7rem;
+}
+
+.section-4-containeer {
+  padding: 13rem 7rem 5rem 0;
+}
+
+
+.item-info {
+  padding: 1rem 0 0 16rem;
+}
+
+.item-info__title {
+  font-size: 7.5rem;
+}
+
+.item-info__description {
+  font-size: 2.3rem;
+  margin: 5rem 0 6rem 0;
+}
+
+.item-info__button {
+  height: 6.5rem;
+  font-size: 2.5rem;
+  width: 32.5rem;
+}
+
+
+/* Section-2 End Here */
+
+
+
+.section-3-card {
+    column-gap: 20rem;
+}
+
+
+
+.section-3-cards{
+  
+  width: 100%;
+}
+
+
+/*---------------------
+ Main Section End Here 
+----------------------*/
+
+
+
+
+.footer-list:last-child{
+  margin-top: 0%;
+}
